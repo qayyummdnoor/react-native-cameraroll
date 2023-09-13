@@ -1,5 +1,7 @@
 # `@react-native-community/cameraroll`
 
+## This fork is specifically made to fix android api 33
+
 [![CircleCI Status][circle-ci-badge]][circle-ci]
 ![Supports Android and iOS][supported-os-badge]
 ![MIT License][license-badge]
